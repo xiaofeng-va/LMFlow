@@ -1,0 +1,8 @@
+{
+  "type": "text_only",
+  "instances": [
+    {"text": "Human: Tell me about deep learning. Assistant: Deep learning is a subset of machine learning that uses neural networks with many layers."},
+    {"text": "Human: What is LMFlow? Assistant: LMFlow is an extensible toolkit for finetuning large language models."},
+    {"text": "Human: How can I train a model? Assistant: You can use parameter-efficient methods like DoRA or LoRA to finetune existing large language models."}
+  ]
+}
